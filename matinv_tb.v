@@ -6,9 +6,9 @@
 //
 // Create Date:   15:13:23 10/06/2016
 // Design Name:   matrx_inv
-// Module Name:   C:/Users/Pankti/LA/matinv_tb.v
+// Module Name:   C:/Users/Kanan/LA/matinx_tb.v
 // Project Name:  LA
-// Target Device:  
+// Target Device:  TB file
 // Tool versions:  
 // Description: 
 //
